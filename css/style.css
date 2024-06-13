@@ -29,3 +29,18 @@ body{
   margin-right: auto;
   font-family: 'Courier New', monospace;
 }
+
+
+
+img {
+  width: 50%;
+  height: 33%;
+}
+
+a:link{
+  color: rgb(100, 100, 100);
+}
+
+a:hover{
+  color: lightgrey;
+}
